@@ -1,6 +1,6 @@
 # flutter_calculator
 
-Example project demonstrating how to build a calculator app in Flutter
+Example project demonstrating how to build a calculator app in Flutter, including scientific functions.
 
 ![Preview](preview.gif)
 
@@ -14,6 +14,10 @@ To build and run this project:
 4. Run `flutter run-android` or `flutter run-ios` to build the app
 
 (Please note that a Mac with XCode is required to build for iOS)
+
+## Scientific Functions
+
+In addition to basic arithmetic operations, this calculator app includes scientific functions such as trigonometric functions, logarithms, exponentiation, and more.
 
 ## Contributing
 
